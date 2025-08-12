@@ -1,0 +1,328 @@
+[
+  {
+    "id": "1748321651676",
+    "nome": "SAORI TEIXEIRA DE LIMA",
+    "email": "saorisaoh@gmail.com",
+    "celular": "81 98596-1544",
+    "numeroProcesso": "0052543-30.2024.8.17.8201",
+    "valoresCombinados": 380,
+    "descricaoCaso": "Ação indenizatória por danos morais e materiais em face da Uber. Serviço da UberFlash.",
+    "comoProspectado": "Chat DM Instagram - Prospecção ativa.",
+    "dataCadastro": "2024-12-17",
+    "status": "inativo",
+    "observacoes": "",
+    "prazos": [
+      {
+        "id": "rev_1748322461866_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataVencimento": "2025-06-03",
+        "concluido": true,
+        "automatico": true,
+        "dataIncio": null
+      },
+      {
+        "id": "rev_1749229161876_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-10",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1749531997271_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-17",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1750646024091_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-24",
+        "concluido": true,
+        "automatico": true
+      }
+    ],
+    "quotaLitis": 0
+  },
+  {
+    "id": "1748749577359",
+    "nome": "MELO GESTÃO DE IMÓVEIS LTDA",
+    "email": "melogestaodeimoveis@gmail.com",
+    "celular": "+55 81 8920-8787",
+    "numeroProcesso": "0004285-28.2025.8.17.2001",
+    "valoresCombinados": 0,
+    "descricaoCaso": "Ação de cobrança - taxa de corretagem - 15% no êxito",
+    "comoProspectado": "Indicação - Prospecção raiz",
+    "dataCadastro": "2025-01-29",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": [
+      {
+        "id": "rev_1748749577377_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-08",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1749229177481_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-15",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1750646024091_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-22",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1750646327580_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-29",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "1750646391636",
+        "descricao": "Protocolar ED",
+        "dataIncio": "2025-06-23",
+        "dataVencimento": "2025-06-27",
+        "concluido": true,
+        "automatico": false
+      },
+      {
+        "id": "rev_1751010828785_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-06",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1751732601002_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-13",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1754316277834",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": "2025-08-04",
+        "dataVencimento": "2025-08-11",
+        "concluido": false,
+        "automatico": true
+      }
+    ],
+    "quotaLitis": 0
+  },
+  {
+    "id": "1748749666955",
+    "nome": "JULIANE GALVÃO",
+    "email": "",
+    "celular": "N/A",
+    "numeroProcesso": "N/A",
+    "valoresCombinados": 350,
+    "descricaoCaso": "Demanda administrativa - Assédio Moral.",
+    "comoProspectado": "Marketing virtual - Conteúdo",
+    "dataCadastro": "2025-02-19",
+    "status": "inativo",
+    "observacoes": "",
+    "prazos": [],
+    "quotaLitis": 0
+  },
+  {
+    "id": "1748749752131",
+    "nome": "LUCAS NERY DE ALBUQUERQUE",
+    "email": "",
+    "celular": "81 9999-3252",
+    "numeroProcesso": "0009305-24.2025.8.17.8201",
+    "valoresCombinados": 0,
+    "descricaoCaso": "AÇÃO ANULATÓRIA DE DÉBITO C/C INDENIZAÇÃO em face da Renner - 30% no êxito.\n",
+    "comoProspectado": "Cartão de visita - Prospecção raiz",
+    "dataCadastro": "2025-06-01",
+    "status": "ativo",
+    "observacoes": "- Sentença parcial procedente.\n- Protocolo de Apelação.\n",
+    "prazos": [
+      {
+        "id": "rev_1748749752132_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-08",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "1748749858503",
+        "descricao": "Recurso Inominado",
+        "dataIncio": "2025-05-30",
+        "dataVencimento": "2025-06-11",
+        "concluido": true,
+        "automatico": false
+      },
+      {
+        "id": "rev_1749229178192_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-15",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1750646024091_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-22",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1750646328386_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-29",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1751010832594_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-06",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1751732601513_174",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-13",
+        "concluido": true,
+        "automatico": true
+      }
+    ],
+    "quotaLitis": 0
+  },
+  {
+    "id": "1750646251740",
+    "nome": "VERA LÚCIA NUNES",
+    "email": "veranunes71@gmail.com",
+    "celular": "+55 81 9885-9688",
+    "numeroProcesso": "",
+    "valoresCombinados": 5.5,
+    "descricaoCaso": "Usucapião extraordinário - imóvel sem registro e matrícula. Mãe que saiu do imóvel em 2018 vendeu sua posse para filha, sem contestação dos outros irmãos, prazo decadencial convalidou a venda.\nR$ 3.500,00 inicial parcelado e R$ 2.100,00 êxito.",
+    "comoProspectado": "Indicação - Prospecção raiz",
+    "dataCadastro": "2025-06-10",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": [
+      {
+        "id": "rev_1750646251741_175",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-06-29",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1751732593194_175",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-06",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1751732602787_175",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-13",
+        "concluido": true,
+        "automatico": true
+      }
+    ],
+    "quotaLitis": 0
+  },
+  {
+    "id": "1750646699712",
+    "nome": "Sheyla Joyse Nunes Cavalcanti",
+    "email": "",
+    "celular": "+55 81 8880-2330",
+    "numeroProcesso": "",
+    "valoresCombinados": 5.5,
+    "descricaoCaso": "Usucapião extrajudicial - Posse mansa e pacifica com animus da mãe, processo anterior da mãe foi extinto. Entrando sozinha sem irmãos com documento de renúncia de posse.",
+    "comoProspectado": "Indicação - Prospecção raiz",
+    "dataCadastro": "2025-06-26",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": [
+      {
+        "id": "rev_1750646699713_175",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-03",
+        "concluido": true,
+        "automatico": true
+      },
+      {
+        "id": "rev_1751732593194_175",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": null,
+        "dataVencimento": "2025-07-10",
+        "concluido": true,
+        "automatico": true
+      }
+    ],
+    "quotaLitis": 0
+  },
+  {
+    "id": "1753065778198",
+    "nome": "CAUÃ PRATES DA SILVA - MENOR - CAMILLA",
+    "email": "",
+    "celular": "81 9945-4304",
+    "numeroProcesso": "",
+    "valoresCombinados": 0,
+    "descricaoCaso": "",
+    "comoProspectado": "Indicação - Prospecção raiz",
+    "quotaLitis": 30,
+    "dataCadastro": "2025-07-15",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": []
+  },
+  {
+    "id": "1754316267106",
+    "nome": "JAIME GERMANO DO NASCIMENTO NETO",
+    "email": "",
+    "celular": "",
+    "numeroProcesso": "0063145-22.2025.8.17.2001",
+    "valoresCombinados": 0,
+    "descricaoCaso": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C TUTELA ANTECIPADA REQUERIDA EM CARÁTER ANTECEDENTE. Em face da 99, bloqueio em perfil de motorista de maneira indevida.\nForma de pagamento: duas parcelas de R$ 100,00 + quatro parcelas de R$ 200,00.\n",
+    "comoProspectado": "Indicação - Prospecção raiz",
+    "quotaLitis": 0,
+    "dataCadastro": "2025-08-04",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": [
+      {
+        "id": "rev_1754316295557",
+        "descricao": "Verificação de Processo Semanal",
+        "dataIncio": "2025-08-04",
+        "dataVencimento": "2025-08-11",
+        "concluido": false,
+        "automatico": true
+      }
+    ]
+  }
+]
