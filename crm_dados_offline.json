@@ -324,5 +324,20 @@
         "automatico": true
       }
     ]
+  },
+  {
+    "id": "1755042060558",
+    "nome": "Daniel de Almeida Silva",
+    "email": "",
+    "celular": "+55 81 8980-3786",
+    "numeroProcesso": "0000876-87.2025.8.17.2310",
+    "valoresCombinados": 800,
+    "descricaoCaso": "Conta do Nubank bloqueada que posteriormente foi encerrada.",
+    "comoProspectado": "Jusfy",
+    "quotaLitis": 30,
+    "dataCadastro": "2025-08-12",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": []
   }
 ]
