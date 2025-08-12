@@ -121,7 +121,7 @@
         "descricao": "Verificação de Processo Semanal",
         "dataIncio": "2025-08-04",
         "dataVencimento": "2025-08-11",
-        "concluido": false,
+        "concluido": true,
         "automatico": true
       }
     ],
@@ -320,7 +320,7 @@
         "descricao": "Verificação de Processo Semanal",
         "dataIncio": "2025-08-04",
         "dataVencimento": "2025-08-11",
-        "concluido": false,
+        "concluido": true,
         "automatico": true
       }
     ]
