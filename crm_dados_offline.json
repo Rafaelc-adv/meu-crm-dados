@@ -123,6 +123,14 @@
         "dataVencimento": "2025-08-11",
         "concluido": true,
         "automatico": true
+      },
+      {
+        "id": "1755043198931",
+        "descricao": "Verificar parcela 02 custas",
+        "dataIncio": "2025-08-28",
+        "dataVencimento": "2025-08-30",
+        "concluido": false,
+        "automatico": false
       }
     ],
     "quotaLitis": 0
