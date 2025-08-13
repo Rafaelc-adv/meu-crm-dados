@@ -290,6 +290,14 @@
         "dataVencimento": "2025-07-10",
         "concluido": true,
         "automatico": true
+      },
+      {
+        "id": "1755043816569",
+        "descricao": "Elaboração de Inicial",
+        "dataIncio": "2025-08-18",
+        "dataVencimento": "2025-08-22",
+        "concluido": false,
+        "automatico": false
       }
     ],
     "quotaLitis": 0
