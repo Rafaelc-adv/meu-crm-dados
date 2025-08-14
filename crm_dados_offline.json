@@ -355,5 +355,37 @@
     "status": "ativo",
     "observacoes": "",
     "prazos": []
+  },
+  {
+    "id": "1755139761359",
+    "nome": "Redes Sociais",
+    "email": "",
+    "celular": "",
+    "numeroProcesso": "",
+    "valoresCombinados": 1000000,
+    "descricaoCaso": "Prazos das minhas redes sociais",
+    "comoProspectado": "Chat DM Instagram - Prospecção ativa.",
+    "quotaLitis": 0,
+    "dataCadastro": "2025-08-14",
+    "status": "ativo",
+    "observacoes": "",
+    "prazos": [
+      {
+        "id": "1755139823282",
+        "descricao": "gravar reels Insta/Tik",
+        "dataIncio": "2025-08-15",
+        "dataVencimento": "2025-08-15",
+        "concluido": false,
+        "automatico": false
+      },
+      {
+        "id": "1755139856785",
+        "descricao": "Editar vídeos",
+        "dataIncio": "2025-08-17",
+        "dataVencimento": "2025-08-17",
+        "concluido": false,
+        "automatico": false
+      }
+    ]
   }
 ]
