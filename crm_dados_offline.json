@@ -375,7 +375,7 @@
         "descricao": "gravar reels Insta/Tik",
         "dataIncio": "2025-08-15",
         "dataVencimento": "2025-08-15",
-        "concluido": false,
+        "concluido": true,
         "automatico": false
       },
       {
@@ -383,7 +383,7 @@
         "descricao": "Editar vídeos",
         "dataIncio": "2025-08-17",
         "dataVencimento": "2025-08-17",
-        "concluido": false,
+        "concluido": true,
         "automatico": false
       }
     ]
